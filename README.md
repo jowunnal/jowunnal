@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jinho&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=110&section=header&text=Jinho&fontSize=30&&animation=fadeIn&&fontAlignY=80)
 
-
+<div align=center>
 ### Hi This is jino's Repository 👋 
 
 Today ✈️
@@ -15,7 +15,7 @@ Today ✈️
 
  My Activity 🍀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jowunnal&show_icons=true&theme=radical)
-**
+</div>
 
 <!--
 jowunnal/jowunnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
